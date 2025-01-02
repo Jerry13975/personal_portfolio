@@ -74,7 +74,6 @@
 @media (max-width: 768px) {
     .terminal-container{
         font-size: 1rem;
-        min-width: 400px;
         padding: 20px 20px 30px 40px;
     }
 
